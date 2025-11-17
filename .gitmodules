@@ -1,0 +1,3 @@
+[submodule "IPAM"]
+	path = IPAM
+	url = git@github.com:rohanbatrain/IPAM.git
