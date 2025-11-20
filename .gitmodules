@@ -1,3 +1,27 @@
 [submodule "IPAM"]
 	path = IPAM
 	url = git@github.com:rohanbatrain/IPAM.git
+[submodule "sbd-nextjs-family-hub"]
+	path = sbd-nextjs-family-hub
+	url = https://github.com/rohanbatrain/sbd-nextjs-family-hub
+[submodule "sbd-nextjs-digital-shop"]
+	path = sbd-nextjs-digital-shop
+	url = https://github.com/rohanbatrain/sbd-nextjs-digital-shop
+[submodule "sbd-nextjs-blog-platform"]
+	path = sbd-nextjs-blog-platform
+	url = https://github.com/rohanbatrain/sbd-nextjs-blog-platform
+[submodule "sbd-nextjs-university-clubs-platform"]
+	path = sbd-nextjs-university-clubs-platform
+	url = https://github.com/rohanbatrain/sbd-nextjs-university-clubs-platform
+[submodule "sbd-nextjs-landing-page"]
+	path = sbd-nextjs-landing-page
+	url = https://github.com/rohanbatrain/sbd-nextjs-landing-page
+[submodule "sbd-nextjs-chat"]
+	path = sbd-nextjs-chat
+	url = https://github.com/rohanbatrain/sbd-nextjs-chat
+[submodule "sbd-nextjs-ipam"]
+	path = sbd-nextjs-ipam
+	url = https://github.com/rohanbatrain/sbd-nextjs-ipam
+[submodule "sbd-flutter-emotion_tracker"]
+	path = sbd-flutter-emotion_tracker
+	url = https://github.com/rohanbatrain/sbd-flutter-emotion_tracker
